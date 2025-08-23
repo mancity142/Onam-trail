@@ -38,3 +38,29 @@ Set up Express and Socket.io for real-time communication.
 
 Do the node server.js run in the onamtrail directory itself or issue arises also after node serves.js happens .
 
+
+
+
+Created git commit.
+
+Success! Created client at E:\onamtrial\client
+Inside that directory, you can run several commands:
+
+  npm start
+    Starts the development server.
+
+  npm run build
+    Bundles the app into static files for production.
+
+  npm test
+    Starts the test runner.
+
+  npm run eject
+    Removes this tool and copies build dependencies, configuration files
+    and scripts into the app directory. If you do this, you can’t go back!
+
+We suggest that you begin by typing:
+
+  cd client
+  npm start
+
