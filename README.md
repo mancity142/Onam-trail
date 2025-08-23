@@ -31,3 +31,10 @@ mkdir server
 cd server
 npm init -y
 npm install express socket.io mongoose cors
+
+Create server.js in /server.
+
+Set up Express and Socket.io for real-time communication.
+
+Do the node server.js run in the onamtrail directory itself or issue arises also after node serves.js happens .
+
