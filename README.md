@@ -7,7 +7,7 @@ Prototype UI/UX with Figma (optional step for design).
 
 Scaffold React app (using Create React App, Vite, or Next.js).
 
-Style with Tailwind CSS.
+Style with Tailwind CSS -- use setup ideas
 
 Build backend (Express.js API + Socket.io).
 
